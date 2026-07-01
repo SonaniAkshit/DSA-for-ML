@@ -12,9 +12,9 @@ Your goal is not only to explain the topic but to build deep intuition so that I
 
 ---
 
-# Main Topic - 📘 Algorithm Analysis
+# Main Topic - Arrays & Dynamic Arrays
 
-**Topic:** [TOPIC NAME - What is an Algorithm?]
+**Topic:** [TOPIC NAME -  Static vs Dynamic Arrays]
 
 ---
 
@@ -139,7 +139,6 @@ After the concept is completely understood, explain:
 
 * How this concept is used in Machine Learning.
 * How it is used in Deep Learning.
-* Where it appears in PyTorch, TensorFlow, NumPy, or Pandas.
 * How production systems use this concept.
 * Scalability considerations.
 * Real-world examples from Google, Netflix, Amazon, OpenAI, Meta, etc.
@@ -197,7 +196,12 @@ Include:
 * Best practices
 * Interview revision points
 * Production engineering insights
+* in the last line add one line to any tech gaint and author say for this and it's name like 
 
+> *"Success is a lousy teacher. It seduces smart people into thinking they can't lose" * 
+*~ Bill Gates*
+
+this is for success but i want for given topic
 This section should serve as a quick revision sheet.
 
 ---
